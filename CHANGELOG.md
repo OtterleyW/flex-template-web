@@ -16,6 +16,8 @@ way to update this template, but currently, we follow a pattern:
 
 * [fix] Remove unused translation keys and update PasswordChangePage title
   [#959](https://github.com/sharetribe/flex-template-web/pull/959)
+* [fix] Add translations CLI tool
+  [#955](https://github.com/sharetribe/flex-template-web/pull/955)
 
 ## [v2.3.2] 2018-11-20
 
